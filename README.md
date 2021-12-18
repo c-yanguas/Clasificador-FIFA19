@@ -1,5 +1,8 @@
 # Clasificador-FIFA19
- 
+Autores:
+- [Carlos Golvano](https://github.com/CarlosGolvano)
+- [Jorge Casajus](https://github.com/jogecodes)
+
 Para una correcta comprensión de los objetivos de este proyecto así como la evolución del mismo, es muy aconsejable la lectura de [documentación.pdf](https://github.com/c-yanguas/Clasificador-FIFA19/blob/main/Documentacion.pdf).
 
 De manera resumida, el objetivo de este proyecto es mostrar el proceso de convergencia de modelos basados en redes neuronales durante la fase de entrenamiento. Para ello, se iran cambiando los principales hiperparámetros:
