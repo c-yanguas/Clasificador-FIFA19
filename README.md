@@ -7,12 +7,12 @@ El objetivo de este proyecto es mostrar el proceso de convergencia de modelos ba
 - Número de capas y de neuronas por capa
 - Funciones de activación
 - Regularización:
- - Dropout
- - Normalización de batch
- - Regularización L2
+  - Dropout
+  - Normalización de batch
+  - Regularización L2
 
 Además se mostrará como interpretar las gráficas de entrenamiento de los modelos, junto con los cambios que pueden ser oportunos para el mismo.
 
-NOTA: Es relevante destacar que el conjunto de datos cuenta con el orden de 20.000 datos, por lo que este proyecto solo se centra en el ajuste de hiperparámetros, no en la construcción óptima de un modelo predictor. Así pues, también se expone en la documentación que otros enfoques basados en aprendizaje automático son óptimos.
+NOTA: Es relevante destacar que el conjunto de datos cuenta con el orden de 20.000 datos, por lo que este proyecto solo se centra en el ajuste de hiperparámetros, no en la construcción óptima de un modelo predictor. Así pues, también se expone en la [documentación.pdf](https://github.com/c-yanguas/Prediccion-meteorologia-espacial/blob/main/Documentaci%C3%B3n.pdf) que otros enfoques basados en aprendizaje automático son óptimos.
 
  
