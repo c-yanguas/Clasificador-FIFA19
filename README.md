@@ -1,5 +1,5 @@
 # Clasificador-FIFA19
-Autores: [Carlos Golvano](https://github.com/CarlosGolvano), [Carlos Yanguas](https://github.com/c-yanguas), [Jorge Casajus](https://github.com/jogecodes)
+Autores: [Carlos Golvano](https://github.com/CarlosGolvano), [Carlos Yanguas](https://github.com/c-yanguas), [Jorge Casajus](https://github.com/jogecodes).
 
 
 Para una correcta comprensión de los objetivos de este proyecto así como la evolución del mismo, es muy aconsejable la lectura de [documentación.pdf](https://github.com/c-yanguas/Clasificador-FIFA19/blob/main/Documentacion.pdf).
